@@ -7,6 +7,7 @@
 
 Импортируемые модули
 ```python
+from collections import defaultdict
 import os #функции для работы с операционной системой
 import sys #доступ к переменным
 ```
@@ -22,9 +23,9 @@ get_dublicate_files(path_to_folder)
 
 Запус и пример ответ
 $ python duplicates.py c:\temp\
-Magic Retouch Pro v2.3.zxp 821390
-Retouch Preset.tpl 90192
-info.txt 3143
+c:\temp\Magic Retouch\Magic Retouch Pro\Plug-In\Photoshop CS5\Magic Retouch Pro v2.3.zxp 821390
+c:\temp\Magic Retouch Pro\Magic Retouch Pro\Retouch Preset\Retouch Preset.tpl 90192
+c:\temp\Баннер\info.txt 3143
 ```
 
 # Цели проекта
