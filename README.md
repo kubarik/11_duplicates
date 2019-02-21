@@ -28,6 +28,4 @@ c:\temp\Magic Retouch Pro\Magic Retouch Pro\Retouch Preset\Retouch Preset.tpl 90
 c:\temp\Баннер\info.txt 3143
 ```
 
-# Цели проекта
 
-Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
